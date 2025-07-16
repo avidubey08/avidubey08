@@ -10,7 +10,7 @@
 - ✅ [Zero to Mastery: Ethical Hacking Bootcamp](https://zerotomastery.io)
 - 📚 [IIT Madras - Ethical Hacking (SWAYAM)](https://swayam.gov.in)
 - 🤖 DSA (using C++), OOPS, and Core Java
-- 📱 Android Development with Kotlin and Firebase
+- 📱 AWS skill builder  
 
 ---
 
