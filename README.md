@@ -1,27 +1,29 @@
-# 👋 Hello! I'm Avii Dubey
+# Hello! I'm Avinash Dubey
 
-🎓 I'm an IT undergrad at **IIEST Shibpur**, currently in my 2nd year.  
-💼 I also work part-time at **Physics Wallah** as a Doubt Solver.  
-🌱 I'm actively learning **Ethical Hacking** and **Android Development**.
-
----
-
-## 🚀 What I'm Currently Learning
-- ✅ [Zero to Mastery: Ethical Hacking Bootcamp](https://zerotomastery.io)
-- 📚 [IIT Madras - Ethical Hacking (SWAYAM)](https://swayam.gov.in)
-- 🤖 DSA (using C++), OOPS, and Core Java
-- 📱 AWS skill builder  
+IT Student @ IIEST Shibpur | C++ | Java | MERN
+Competitive Programming: Pupil  @ Codeforces| 3★ @ Codechef
+Core Skills: C++, Java, OOP, Data Structures & Algorithms
+Development: Currently building skills in Full Stack Web Development (MERN).
 
 ---
 
-## 🎯 Goals
+##  What I'm Currently Learning
+-Full Stack Web Devlopment
+-  [Zero to Mastery: Ethical Hacking Bootcamp](https://zerotomastery.io)
+-  [IIT Madras - Ethical Hacking (SWAYAM)](https://swayam.gov.in)
+-  DSA (using C++), OOPS, and Core Java
+-  AWS skill builder  
+
+---
+
+## Goals
 - Build real-world projects in cybersecurity and Android
 - Solve DSA problems regularly
 - Get selected for internships or roles at **Google, Microsoft, or Tesla** by end of 2026
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 - 🔗 [Email Scraper Tool](https://github.com/avidubey08/email-scraper-tool) – Extracts emails from a URL and its linked pages
 - 🔗 [Port Scanner Tool](https://github.com/avidubey08/port-scanner-tool) – Scans open ports on target systems
 
