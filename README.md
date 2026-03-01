@@ -1,48 +1,63 @@
-# Hello! I'm Avinash Dubey
-
-IT Student @ IIEST Shibpur | C++ | Java | MERN
-Competitive Programming: Pupil  @ Codeforces| 3★ @ Codechef
-Core Skills: C++, Java, OOP, Data Structures & Algorithms
-Development: Currently building skills in Full Stack Web Development (MERN).
+#  Avinash Dubey  
+**Information Technology @ IIEST Shibpur (Batch of 2028)** *Building secure, scalable web applications with a focus on MERN & Cloud Infrastructure.*
 
 ---
 
-##  What I'm Currently Learning
--Full Stack Web Devlopment
--  [Zero to Mastery: Ethical Hacking Bootcamp](https://zerotomastery.io)
--  [IIT Madras - Ethical Hacking (SWAYAM)](https://swayam.gov.in)
--  DSA (using C++), OOPS, and Core Java
--  AWS skill builder  
+##  About Me  
+I am a 2nd-year Software Engineering student dedicated to mastering the full software development lifecycle. I bridge the gap between **high-performance algorithms** and **modern web architecture**.  
+
+-  **Web Development:** Mastering the MERN stack via Apna College Delta.  
+- **Cloud:** Currently exploring AWS Skill Builder to deploy production-grade applications.  
+-  **Cybersecurity:** Certified Ethical Hacker (ZTM) with a foundational "Security-First" mindset.  
+-  **Competitive Programming:** Active solver on Codeforces, CodeChef, and LeetCode.
 
 ---
 
-## Goals
-- Build real-world projects in cybersecurity and Android
-- Solve DSA problems regularly
-- Get selected for internships or roles at **Google, Microsoft, or Tesla** by end of 2026
+##  Programming Statistics  
+| Platform | Rating | Rank/Stars |
+| :--- | :--- | :--- |
+| **Codeforces** | 1311 | Pupil |
+| **CodeChef** | 1630 | 3★ |
+| **LeetCode** | 1578 
 
 ---
 
-##  Featured Projects
-- 🔗 [Email Scraper Tool](https://github.com/avidubey08/email-scraper-tool) – Extracts emails from a URL and its linked pages
-- 🔗 [Port Scanner Tool](https://github.com/avidubey08/port-scanner-tool) – Scans open ports on target systems
+## Tech Stack  
+- **Languages:** C++, Java, JavaScript (ES6+), Python, VHDL  
+- **Frontend:** React.js, HTML5, CSS3, Bootstrap/Tailwind  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB, Firebase  
+- **Tools/Cloud:** AWS (EC2, S3 fundamentals), Git, Linux (Kali), Docker basics  
 
 ---
 
-## 🧰 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+##  Featured Projects  
+
+### 🔗 [Email Scraper Tool](https://github.com/avidubey08/email-scraper-tool)  
+*Python | BeautifulSoup | Regex* - Developed a recursive web crawler to automate data reconnaissance.  
+- Extracts and validates email contact information from target domains and up to 100 linked pages.  
+
+###  [Port Scanner Tool](https://github.com/avidubey08/port-scanner-tool)  
+*Python | Socket Programming* - Engineered a reconnaissance utility to identify active services and open vulnerabilities on target systems.  
+
+### 🏠Behavior-Based IoT Anomaly Detection  
+*Python | ML | IoT Security* - (Research/In-Progress) Developing a system to detect security irregularities in smart home environments.  
 
 ---
 
-## 📫 Let's Connect
-- 🔗 [GitHub](https://github.com/avidubey08)
-- 🔗 [LinkedIn](#) *(www.linkedin.com/in/avinash-dubey-885a22319)*
+##  2026 Roadmap  
+- [ ] Reach **Expert** level on Codeforces.  
+- [ ] Build and deploy a secure, real-world Web application.  
+- [ ] Secure an SDE Internship at **Google, Microsoft, or Tesla**.  
 
+---
+
+## 📫 Connect with Me  
+- **LinkedIn:** [linkedin.com/in/avinash-dubey-885a22319](https://www.linkedin.com/in/avinash-dubey-885a22319)  
+- **GitHub:** [@avidubey08](https://github.com/avidubey08)  
+- **Codeforces:** [IronMindX](https://codeforces.com/profile/IronMindX)  
+
+---
 
 
 <!--
