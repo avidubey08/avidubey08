@@ -26,7 +26,7 @@ I am a 2nd-year Software Engineering student dedicated to mastering the full sof
 - **Languages:** C++, Java, JavaScript (ES6+), Python, VHDL  
 - **Frontend:** React.js, HTML5, CSS3, Bootstrap/Tailwind  
 - **Backend:** Node.js, Express.js  
-- **Database:** MongoDB, Firebase  
+- **Database:** MongoDB, MySQL 
 - **Tools/Cloud:** AWS (EC2, S3 fundamentals), Git, Linux (Kali), Docker basics  
 
 ---
