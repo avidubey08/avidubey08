@@ -48,7 +48,7 @@ I am a 2nd-year Software Engineering student dedicated to mastering the full sof
 ##  2026 Roadmap  
 - [ ] Reach **Expert** level on Codeforces.  
 - [ ] Build and deploy a secure, real-world Web application.  
-- [ ] Secure an SDE Internship at **Google, Microsoft, or Tesla**.  
+- [ ] Secure an SDE / ML Internship  
 
 ---
 
