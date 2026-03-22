@@ -24,12 +24,12 @@ I am a 2nd-year Software Engineering student dedicated to mastering the full sof
 
 ## Tech Stack
 
-**Languages:** C++, Python, JavaScript, Java, C, SQL, VHDL 
-**AI/ML Technologies:** PyTorch, Scikit-Learn, Pandas, NumPy, Matplotlib 
-**Frontend:** React.js, HTML, CSS
-**Backend:** Node.js, Express.js, FastAPI 
-**Database:** MongoDB [cite: 46][cite_start], SQL 
-**Tools & Environments:** Docker, AWS, Git/GitHub, Kali Linux, TryHackMe
+* **Languages:** C++, Python, JavaScript, Java, C, SQL, VHDL
+* **AI/ML Technologies:** PyTorch, Scikit-Learn, Pandas, NumPy, Matplotlib 
+* **Frontend:** React.js, HTML, CSS
+ * **Backend:** Node.js, Express.js, FastAPI 
+ * **Database:** MongoDB , SQL 
+* **Tools & Environments:** Docker, AWS, Git/GitHub, Kali Linux, TryHackMe
 
 ##  Featured Projects  
 
