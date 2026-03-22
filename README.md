@@ -22,14 +22,14 @@ I am a 2nd-year Software Engineering student dedicated to mastering the full sof
 
 ---
 
-## Tech Stack  
-- **Languages:** C++, Java, JavaScript (ES6+), Python, VHDL  
-- **Frontend:** React.js, HTML5, CSS3, Bootstrap/Tailwind  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB, MySQL 
-- **Tools/Cloud:** AWS (EC2, S3 fundamentals), Git, Linux (Kali), Docker basics  
+## Tech Stack
 
----
+**Languages:** C++, Python, JavaScript, Java, C, SQL, VHDL 
+**AI/ML Technologies:** PyTorch, Scikit-Learn, Pandas, NumPy, Matplotlib 
+**Frontend:** React.js, HTML, CSS
+**Backend:** Node.js, Express.js, FastAPI 
+**Database:** MongoDB [cite: 46][cite_start], SQL 
+**Tools & Environments:** Docker, AWS, Git/GitHub, Kali Linux, TryHackMe
 
 ##  Featured Projects  
 
