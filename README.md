@@ -1,86 +1,83 @@
+# 🚀 Avinash Dubey  
+**Information Technology @ IIEST Shibpur (Batch of 2028)** *Building secure, scalable web applications with a focus on High-Concurrency Architectures, Distributed Pipelines, and AI/ML Systems.*
 
 ---
 
-```markdown
-# Avinash Dubey  
-**Information Technology @ IIEST Shibpur (Batch of 2028)** *Building secure, scalable web applications with a focus on MERN/Django, Cloud Infrastructure, and Asynchronous Pipelines.*
+## 🛰️ About Me  
+I am a Software Engineering student focused on mastering the entire lifecycle of high-throughput distributed systems. I specialize in bridging the gap between **mathematical logic** and **modern high-concurrency infrastructure**, with a core focus on SDE and AI/ML engineering roles.
+
+- ⚡ **Backend & Distributed Systems:** Proficient in **Django REST Framework** and the **MERN Stack**, integrating Redis caching tiers and event-driven asynchronous task queues (**Celery**).
+- 🔒 **Infrastructure Security:** Focused on stateless authentication (JWT/RBAC), cryptographic webhook verification, and designing unsupervised anomaly detection systems.
+- 🏆 **Competitive Programming:** **Specialist** on Codeforces (Max Rating: 1429); passionate about algorithmic optimization and low-level time complexity analysis.
+- 🧠 **Edge Intelligence:** Experienced in deploying browser-side neural networks (SSD MobileNet) to offload machine learning inference directly to client hardware.
 
 ---
 
-## 🚀 About Me  
-I am a 3rd-year Software Engineering student focused on mastering the full software development lifecycle. I specialize in bridging the gap between **intelligent algorithms** and **modern high-concurrency architecture**, with a growing interest in cybersecurity and edge intelligence.
+## 📊 Competitive Programming Statistics  
 
-- ⚡ **Full-Stack & Backend Systems:** Proficient in the **MERN Stack** and **Django REST Framework**, integrating caching tiers (Redis) and event-driven asynchronous task queues (Celery).
-- 🔒 **Cybersecurity:** Focused on secure authentication (JWT/RBAC), cryptographic webhook verification, and developing anomaly detection systems for IoT ecosystems.
-- 🏆 **Competitive Programming:** **Specialist** on Codeforces (Peak Rating: 1429); passionate about optimizing data structures and algorithmic complexity.
-- 🧠 **Edge Intelligence:** Experienced in deploying browser-based neural networks (SSD MobileNet) for real-time client-side processing.
-
----
-
-## 📊 Programming Statistics  
-| Platform | Rating | Rank / Stars |
-| :--- | :--- | :--- |
-| **Codeforces** | **1429** | **Specialist** |
-| **CodeChef** | **1690** | 3★ |
+| Platform | Handle / Profile | Rating | Rank / Stars |
+| :--- | :--- | :--- | :--- |
+| **Codeforces** | [IronMindX](https://codeforces.com/profile/IronMindX) | **1429** | **Specialist** |
+| **CodeChef** | [IronMindX](https://www.codechef.com/users/IronMindX) | **1690** | **3★** |
 
 ---
 
 ## 🛠️ Tech Stack
 
-### **Core Languages & Backend**
+### **Core Languages & Backend Engines**
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-### **Databases & Caching**
+### **Databases & Memory Caching**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-### **DevOps, Security & Task Queues**
+### **DevOps, Orchestration & Task Management**
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
 
-### **AI / ML & Data Science**
+### **AI / ML & Computational Science**
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
 ---
 
-## 📂 Featured Projects
+## 📂 Featured System Deployments
 
 ### 🛍️ **Event-Driven E-Commerce Core & Asynchronous Transaction Pipeline**
-*Django REST Framework | Redis Caching | Celery Tasks | Docker | NGINX | Razorpay*
-- **Single-Entry Gateway:** Integrated an NGINX reverse-proxy acting as the public-facing gateway on Port 80, serving a responsive dark-mode storefront directly and proxying API traffic to Gunicorn.
-- **Cache-Aside Caching:** Optimized listing queries using Redis, serving dynamic catalogs at **507.23 requests/sec** under a concurrency level of 50, with an average Redis response time of **0.26 ms** over 10,000+ samples.
-- **Asynchronous Task Offloading:** Used Celery workers to decouple intensive SMTP email delivery and ReportLab PDF invoice compilation from Gunicorn threads, maintaining HTTP webhook processing duration under **20 ms**.
-- **Minimal Footprint:** Orchestrated the entire service network (web, db, cache, workers, clock scheduler, proxy gateway) inside Docker containers, keeping the runtime stack memory footprint under **190 MiB**.
-- [View Repository](https://github.com/avidubey08/event-driven-ecommerce-pipeline)
+*Django REST Framework | Redis Caching | Celery Tasks | Docker | NGINX Reverse Proxy | Razorpay*
+- **Unified Web Gateway:** Configured an NGINX reverse-proxy serving a responsive storefront directly from cache, proxying protected upstream traffic to Gunicorn workers.
+- **Read/Write-Through Caching:** Architected a cache-aside layer using Redis, achieving throughput scales of **507.23 requests/sec** under intensive load-testing collections, with an average cache hit latency of **0.26 ms**.
+- **Task Offloading:** Utilized a Celery worker pool to decouple asynchronous tasks (SMTP mail triggers and automated ReportLab PDF invoice rendering) from HTTP threads, reducing webhook runtime duration to under **20 ms**.
+- **Isolated Footprint:** Linked a 7-service container infrastructure network via Docker Compose, maintaining an active baseline runtime memory profile under **190 MiB**.
+- [📁 View Repository](https://github.com/avidubey08/Event-Driven-E-Commerce-Core-Asynchronous-Transaction-Pipeline)
 
-### 🚨 **IoT Anomaly Detection System (Behavior-Based)**
-*Python | Scikit-Learn | IoT Security | Matplotlib*
-- Developed a machine learning framework to identify security irregularities and unauthorized access patterns in smart home environments.
-- Implemented feature engineering on network traffic data to detect DDoS and brute-force patterns with high accuracy.
-- **Key Outcome:** Created a proactive defense layer for resource-constrained IoT devices.
-- [View Repository](https://github.com/avidubey08/ML-Intrusion-Prevention-System)
+### 🚨 **IoT Anomaly Detection System (Behavioral Baseline)**
+*Python | Scikit-Learn | Network Security | Data Pipelines*
+- **Machine Learning Pipeline:** Built an unsupervised pipeline to process continuous network traffic packets, establishing behavioral baselines to detect malicious operational threats.
+- **Feature Engineering:** Extracted mathematical flow variations from raw network data layers, successfully capturing simulated DDoS signatures and unauthorized access vectors.
+- **Target Architecture:** Engineered a proactive, lightweight defense mechanism designed specifically to operate inside hardware-constrained environments.
+- [📁 View Repository](https://github.com/avidubey08/ML-Intrusion-Prevention-System)
 
-### 🎓 **AcademiX: AI-Powered Attendance System**
+### 🎓 **AcademiX: AI-Powered Edge Attendance System**
 *Node.js | face-api.js | Socket.io | MongoDB*
-- **Edge Computing:** Engineered a facial recognition system that offloads AI inference to the client browser, eliminating server-side CPU bottlenecks.
-- **Real-Time Sync:** Integrated **WebSockets** for instantaneous attendance logging and dashboard updates.
-- Developed a comprehensive **Admin Suite** with automated analytics and student performance tracking.
-- [View Repository](https://github.com/avidubey08/AcademiX)
+- **Edge Computing Inference:** Offloaded heavy deep learning computer vision model inference to client-side browsers via face-api.js, removing massive server-side CPU performance blocks.
+- **Real-Time Data Sync:** Integrated bidirectional Socket.io pipelines to achieve instantaneous authentication logging on administrative monitoring dashboards.
+- **Core Engine:** Built a structural admin console featuring automated metrics analysis and student attendance distribution history tracking.
+- [📁 View Repository](https://github.com/avidubey08/AcademiX)
 
-### 🕵️ **Automated Reconnaissance Suite**
-*Python | BeautifulSoup | Socket Programming*
-- **Email Scraper:** Recursive web crawler that automates data reconnaissance across 100+ linked pages with Regex validation.
-- **Port Scanner:** High-performance socket-based utility for identifying active services and potential vulnerabilities in network systems.
-- [Scraper Repo](https://github.com/avidubey08/email-scraper-tool) | [Scanner Repo](https://github.com/avidubey08/port-scanner-tool)
-
----
-
-## 🎯 2026 Roadmap
-- [ ] Reach **Expert** (1600+) level on Codeforces.
-- [ ] Contribute to major Open Source security or ML projects.
-- [ ] Secure a high-impact **SDE / ML Internship**.
+### 🕵️ **Automated Network Reconnaissance Tooling**
+*Python | Socket Programming | BeautifulSoup4 | Regular Expressions*
+- **Recursive Web Crawler:** Engineered an asynchronous scraper that automates link discovery up to 100+ pages deep, extracting and pattern-matching custom targets via optimized RegExp structures.
+- **Port Scanner:** Built a high-speed networking tool using low-level Python socket APIs to map open interface bounds and detect active system banners.
+- [🔗 Scraper Repository](https://github.com/avidubey08/email-scraper-tool) | [🔗 Scanner Repository](https://github.com/avidubey08/port-scanner-tool)
 
 ---
 
-## 🔗 Connect with Me
+## 🎯 2026 Engineering Roadmap
+- [ ] Advance to **Expert** tier ($1600+$ rating profile) on Codeforces.
+- [ ] Open-source contributions to high-performance networking frameworks or ML pipelines.
+- [ ] Secure an enterprise-level **SDE / AI-ML Engineering Internship**.
+
+---
+
+## 🔗 Infrastructure Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avinash-dubey-885a22319)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/avidubey08)
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/IronMindX)
