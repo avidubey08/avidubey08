@@ -1,12 +1,13 @@
 # 🚀 Avinash Dubey  
-**Information Technology @ IIEST Shibpur (Batch of 2028)** *Building secure, scalable web applications with a focus on High-Concurrency Architectures, Distributed Pipelines, and AI/ML Systems.*
+**Information Technology @ IIEST Shibpur (Batch of 2028)**  
+*Building secure, scalable web applications with a focus on High-Concurrency Architectures, Distributed Pipelines, and AI/ML Systems.*
 
 ---
 
 ## 🛰️ About Me  
 I am a Software Engineering student focused on mastering the entire lifecycle of high-throughput distributed systems. I specialize in bridging the gap between **mathematical logic** and **modern high-concurrency infrastructure**, with a core focus on SDE and AI/ML engineering roles.
 
-- ⚡ **Backend & Distributed Systems:** Proficient in **Django REST Framework** and the **MERN Stack**, integrating Redis caching tiers and event-driven asynchronous task queues (**Celery**).
+- ⚡ **Backend & Distributed Systems:** Proficient in **TypeScript / Node.js**, **Django REST Framework**, and the **MERN Stack**, integrating Redis caching tiers and event-driven asynchronous task queues (**Celery** / **BullMQ**).
 - 🔒 **Infrastructure Security:** Focused on stateless authentication (JWT/RBAC), cryptographic webhook verification, and designing unsupervised anomaly detection systems.
 - 🏆 **Competitive Programming:** **Specialist** on Codeforces (Max Rating: 1429); passionate about algorithmic optimization and low-level time complexity analysis.
 - 🧠 **Edge Intelligence:** Experienced in deploying browser-side neural networks (SSD MobileNet) to offload machine learning inference directly to client hardware.
@@ -25,13 +26,13 @@ I am a Software Engineering student focused on mastering the entire lifecycle of
 ## 🛠️ Tech Stack
 
 ### **Core Languages & Backend Engines**
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 ### **Databases & Memory Caching**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 ### **DevOps, Orchestration & Task Management**
-![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white) ![BullMQ](https://img.shields.io/badge/BullMQ-orange?style=flat-square&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
 
 ### **AI / ML & Computational Science**
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
@@ -39,6 +40,16 @@ I am a Software Engineering student focused on mastering the entire lifecycle of
 ---
 
 ## 📂 Featured System Deployments
+
+### 🛰️ **RuralSync: Distributed Service Marketplace with Geospatial Routing Optimization**
+*Node.js | Express | TypeScript | MongoDB (2dsphere) | Redis | BullMQ | Socket.io | NGINX | Docker*
+- **Unified Proxy API Gateway:** Configured an NGINX reverse proxy gateway supporting upstream path-rewriting and real-time WebSocket connection upgrades for client-agent communications.
+- **Geospatial Surge Pricing:** Implemented a dynamic surge pricing algorithm utilizing MongoDB `2dsphere` spatial indexing to calculate active agent density within a 5km radius via `$nearSphere` queries, combined with peak-hour multipliers.
+- **Traveling Salesman Optimization:** Coded an in-memory Traveling Salesman Problem (TSP) nearest-neighbor routing heuristic to sequence daily booking tasks for field agents, reducing travel overhead.
+- **Double-Entry Wallet Ledger:** Engineered an escrow wallet engine to securely process client prepayments, handle service provider payouts (less a 10% platform fee), and automate instant cancellation refunds.
+- **Heuristic Fraud Monitor:** Designed an administrative threat-detection module flagging credential sharing (multiple IP logins within 5 mins), platform abuse (excessive cancellations), and financial anomalies (deposits $\ge \$1,000$).
+- **Asynchronous Task Workers:** Decoupled audit logs and SMTP email notification tasks from primary HTTP threads using Redis and BullMQ queues, securing a baseline service runtime profile of **~30 MiB** per container in production.
+- [📁 View Repository](https://github.com/avidubey08/RuralSync-Distributed-Service-Marketplace-with-Geospatial-Routing-Optimization)
 
 ### 🛍️ **Event-Driven E-Commerce Core & Asynchronous Transaction Pipeline**
 *Django REST Framework | Redis Caching | Celery Tasks | Docker | NGINX Reverse Proxy | Razorpay*
@@ -62,7 +73,7 @@ I am a Software Engineering student focused on mastering the entire lifecycle of
 - **Core Engine:** Built a structural admin console featuring automated metrics analysis and student attendance distribution history tracking.
 - [📁 View Repository](https://github.com/avidubey08/AcademiX)
 
-### 🕵️ **Automated Network Reconnaissance Tooling**
+### 🎓 **Automated Network Reconnaissance Tooling**
 *Python | Socket Programming | BeautifulSoup4 | Regular Expressions*
 - **Recursive Web Crawler:** Engineered an asynchronous scraper that automates link discovery up to 100+ pages deep, extracting and pattern-matching custom targets via optimized RegExp structures.
 - **Port Scanner:** Built a high-speed networking tool using low-level Python socket APIs to map open interface bounds and detect active system banners.
