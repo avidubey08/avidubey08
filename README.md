@@ -1,16 +1,16 @@
 # 🚀 Avinash Dubey  
 **Information Technology @ IIEST Shibpur (Batch of 2028)**  
-*Building secure, scalable web applications with a focus on High-Concurrency Architectures, Distributed Pipelines, and AI/ML Systems.*
+*Building secure, scalable distributed platforms, low-latency machine learning pipelines, and high-concurrency architectures.*
 
 ---
 
 ## 🛰️ About Me  
-I am a Software Engineering student focused on mastering the entire lifecycle of high-throughput distributed systems. I specialize in bridging the gap between **mathematical logic** and **modern high-concurrency infrastructure**, with a core focus on SDE and AI/ML engineering roles.
+I am a Software Engineering student focused on mastering the entire lifecycle of high-throughput distributed systems and production-grade AI/ML integration. I specialize in bridging the gap between **mathematical optimization** and **modern high-concurrency infrastructure**, targeting Software Engineering (SDE) and AI/ML platform roles.
 
-- ⚡ **Backend & Distributed Systems:** Proficient in **TypeScript / Node.js**, **Django REST Framework**, and the **MERN Stack**, integrating Redis caching tiers and event-driven asynchronous task queues (**Celery** / **BullMQ**).
-- 🔒 **Infrastructure Security:** Focused on stateless authentication (JWT/RBAC), cryptographic webhook verification, and designing unsupervised anomaly detection systems.
-- 🏆 **Competitive Programming:** **Specialist** on Codeforces (Max Rating: 1429); passionate about algorithmic optimization and low-level time complexity analysis.
-- 🧠 **Edge Intelligence:** Experienced in deploying browser-side neural networks (SSD MobileNet) to offload machine learning inference directly to client hardware.
+- ⚡ **Backend & Distributed Systems:** Proficient in **TypeScript / Node.js**, **Django REST Framework**, and **FastAPI**, integrating Redis caching, event-driven message brokers (**Apache Kafka**), and asynchronous task queues (**Celery** / **BullMQ**).
+- 🧠 **AI/ML & Vision Systems:** Experienced in real-time edge computer vision inference, optimization of deep learning models via **ONNX Runtime**, and building resource-aware multi-threaded vision-speech pipelines.
+- 📊 **Data Engineering & Streaming:** Skilled in **PySpark Structured Streaming** for processing live event payloads, paired with time-series databases (**TimescaleDB**) and real-time feature stores.
+- 🏆 **Competitive Programming:** **Specialist** on Codeforces (Max Rating: **1429**); passionate about algorithmic optimization, memory management, and time complexity analysis.
 
 ---
 
@@ -29,49 +29,60 @@ I am a Software Engineering student focused on mastering the entire lifecycle of
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 ### **Databases & Memory Caching**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![TimescaleDB](https://img.shields.io/badge/TimescaleDB-0090D9?style=flat-square&logo=timescaledb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-### **DevOps, Orchestration & Task Management**
-![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white) ![BullMQ](https://img.shields.io/badge/BullMQ-orange?style=flat-square&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
+### **DevOps, Messaging & Big Data**
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white) ![BullMQ](https://img.shields.io/badge/BullMQ-orange?style=flat-square&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### **AI / ML & Computational Science**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+### **AI / ML & Pipeline Inference Optimization**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![ONNX Runtime](https://img.shields.io/badge/ONNX_Runtime-005C99?style=flat-square&logo=onnx&logoColor=white) ![YOLOv8](https://img.shields.io/badge/YOLOv8-blueviolet?style=flat-square) ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
 ---
 
-## 📂 Featured System Deployments
+## 📂 Featured System & ML Deployments
+
+### 🚨 **Enterprise Real-Time Fraud Detection Platform**
+*PySpark | Apache Kafka | FastAPI | Redis | TimescaleDB | XGBoost | Isolation Forest | Prometheus | Grafana | Docker*
+- **Decoupled Architecture:** Engineered a high-throughput, low-latency transaction evaluation pipeline using PySpark Structured Streaming to process live transaction streams with sub-second end-to-end response time.
+- **Sliding-Window Feature Store:** Developed a sliding-window feature engineering system in Redis (using ZSETs) to compute rolling-window transaction velocity, spending deviation ratios, and impossible-travel anomalies (via Haversine geographic calculation) with sub-millisecond retrieval latency.
+- **Hybrid ML Ensemble:** Deployed a joint scoring model combining a supervised classifier (XGBoost) for known fraud signatures and an unsupervised model (Isolation Forest) for out-of-distribution anomaly detection (zero-day fraud).
+- **Comprehensive Observability:** Configured Prometheus exporters for the FastAPI service and Kafka consumer workers, rendering real-time dashboards in Grafana tracking fraud rates, transaction velocities, and system lag metrics.
+- [📁 View Repository](https://github.com/avidubey08/Enterprise-Real-Time-Fraud-Detection-Platform)
+
+### 👁️ **ContextVision: AI-Powered Visual Assistant for Accessibility**
+*Python | YOLOv8 | ONNX Runtime | OpenAI Whisper | Hugging Face (GIT) | EasyOCR | Streamlit | SAPI5 | Docker*
+- **Modular Monolith Pipeline:** Designed a concurrent, multi-threaded pipeline executing object tracking, heuristic depth mapping, scene captioning, OCR, semantic memory, and speech transcription concurrently to prevent UI blocking.
+- **ONNX Inference Speedup:** Serialized and optimized `YOLOv8n` via ONNX Runtime, decreasing CPU latency by **37.1%** (from **157.72 ms** to **99.13 ms**), yielding a **1.59x performance speedup**.
+- **Resource-Aware Scheduling:** Restructured heavy operations (`EasyOCR` and `GIT-base` captioning) to run *on-demand only* triggered by user microphone queries, dropping idle baseline CPU and battery consumption by over **95%**.
+- **Feedback-Free Speech Loop:** Built a speech pipeline utilizing `sounddevice` for Whisper STT and a background subprocess SAPI5 worker, implementing an auto-pause mechanism to eliminate acoustic feedback loop issues.
+- [📁 View Repository](https://github.com/avidubey08/ContextVision-RealTime-Accessibility-AI)
 
 ### 🛰️ **RuralSync: Distributed Service Marketplace with Geospatial Routing Optimization**
 *Node.js | Express | TypeScript | MongoDB (2dsphere) | Redis | BullMQ | Socket.io | NGINX | Docker*
-- **Unified Proxy API Gateway:** Configured an NGINX reverse proxy gateway supporting upstream path-rewriting and real-time WebSocket connection upgrades for client-agent communications.
-- **Geospatial Surge Pricing:** Implemented a dynamic surge pricing algorithm utilizing MongoDB `2dsphere` spatial indexing to calculate active agent density within a 5km radius via `$nearSphere` queries, combined with peak-hour multipliers.
-- **Traveling Salesman Optimization:** Coded an in-memory Traveling Salesman Problem (TSP) nearest-neighbor routing heuristic to sequence daily booking tasks for field agents, reducing travel overhead.
-- **Double-Entry Wallet Ledger:** Engineered an escrow wallet engine to securely process client prepayments, handle service provider payouts (less a 10% platform fee), and automate instant cancellation refunds.
-- **Heuristic Fraud Monitor:** Designed an administrative threat-detection module flagging credential sharing (multiple IP logins within 5 mins), platform abuse (excessive cancellations), and financial anomalies (deposits $\ge \$1,000$).
-- **Asynchronous Task Workers:** Decoupled audit logs and SMTP email notification tasks from primary HTTP threads using Redis and BullMQ queues, securing a baseline service runtime profile of **~30 MiB** per container in production.
+- **Geospatial Surge Pricing:** Implemented a dynamic pricing algorithm using MongoDB `2dsphere` spatial indexing to calculate active provider density within a 5km radius via `$nearSphere` queries.
+- **Traveling Salesman Routing:** Designed an in-memory Traveling Salesman Problem (TSP) nearest-neighbor heuristic to optimize and sequence routing tasks for field agents, decreasing travel overhead.
+- **Double-Entry Wallet Ledger:** Built an escrow ledger processing client prepayments, payout distribution (deducting 10% platform fee), and automated instant cancellation refunds.
+- **Asynchronous Task Workers:** Decoupled audit logs and SMTP notifications from HTTP threads using Redis and BullMQ queues, securing a baseline memory profile of **~30 MiB** per container in production.
 - [📁 View Repository](https://github.com/avidubey08/RuralSync-Distributed-Service-Marketplace-with-Geospatial-Routing-Optimization)
 
 ### 🛍️ **Event-Driven E-Commerce Core & Asynchronous Transaction Pipeline**
 *Django REST Framework | Redis Caching | Celery Tasks | Docker | NGINX Reverse Proxy | Razorpay*
-- **Unified Web Gateway:** Configured an NGINX reverse-proxy serving a responsive storefront directly from cache, proxying protected upstream traffic to Gunicorn workers.
 - **Read/Write-Through Caching:** Architected a cache-aside layer using Redis, achieving throughput scales of **507.23 requests/sec** under intensive load-testing collections, with an average cache hit latency of **0.26 ms**.
-- **Task Offloading:** Utilized a Celery worker pool to decouple asynchronous tasks (SMTP mail triggers and automated ReportLab PDF invoice rendering) from HTTP threads, reducing webhook runtime duration to under **20 ms**.
-- **Isolated Footprint:** Linked a 7-service container infrastructure network via Docker Compose, maintaining an active baseline runtime memory profile under **190 MiB**.
+- **Asynchronous Task Offloading:** Utilized Celery workers to handle automated PDF invoice rendering (ReportLab) and SMTP triggers, reducing webhook execution latency to under **20 ms**.
+- **Isolated Footprint:** Containerized and optimized a 7-service compose topology, reducing active baseline runtime memory profile to under **190 MiB**.
 - [📁 View Repository](https://github.com/avidubey08/Event-Driven-E-Commerce-Core-Asynchronous-Transaction-Pipeline)
-
-### 🚨 **IoT Anomaly Detection System (Behavioral Baseline)**
-*Python | Scikit-Learn | Network Security | Data Pipelines*
-- **Machine Learning Pipeline:** Built an unsupervised pipeline to process continuous network traffic packets, establishing behavioral baselines to detect malicious operational threats.
-- **Feature Engineering:** Extracted mathematical flow variations from raw network data layers, successfully capturing simulated DDoS signatures and unauthorized access vectors.
-- **Target Architecture:** Engineered a proactive, lightweight defense mechanism designed specifically to operate inside hardware-constrained environments.
-- [📁 View Repository](https://github.com/avidubey08/ML-Intrusion-Prevention-System)
 
 ### 🎓 **AcademiX: AI-Powered Edge Attendance System**
 *Node.js | face-api.js | Socket.io | MongoDB*
 - **Edge Computing Inference:** Offloaded heavy deep learning computer vision model inference to client-side browsers via face-api.js, removing massive server-side CPU performance blocks.
 - **Real-Time Data Sync:** Integrated bidirectional Socket.io pipelines to achieve instantaneous authentication logging on administrative monitoring dashboards.
-- **Core Engine:** Built a structural admin console featuring automated metrics analysis and student attendance distribution history tracking.
 - [📁 View Repository](https://github.com/avidubey08/AcademiX)
+
+### 🚨 **IoT Anomaly Detection System (Behavioral Baseline)**
+*Python | Scikit-Learn | Network Security | Data Pipelines*
+- **Machine Learning Pipeline:** Built an unsupervised pipeline to process continuous network traffic packets, establishing behavioral baselines to detect malicious operational threats.
+- **Feature Engineering:** Extracted mathematical flow variations from raw network data layers, successfully capturing simulated DDoS signatures and unauthorized access vectors.
+- [📁 View Repository](https://github.com/avidubey08/ML-Intrusion-Prevention-System)
 
 ### 🎓 **Automated Network Reconnaissance Tooling**
 *Python | Socket Programming | BeautifulSoup4 | Regular Expressions*
