@@ -1,3 +1,6 @@
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=avidubey08&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
+</p>
 # 🚀 Avinash Dubey  
 **Information Technology @ IIEST Shibpur (Batch of 2028)**  
 *Building secure, scalable distributed platforms, low-latency machine learning pipelines, and high-concurrency architectures.*
@@ -18,7 +21,7 @@ I am a Software Engineering student focused on mastering the entire lifecycle of
 
 | Platform | Handle / Profile | Rating | Rank / Stars |
 | :--- | :--- | :--- | :--- |
-| **Codeforces** | [IronMindX](https://codeforces.com/profile/IronMindX) | **1429** | **Specialist** |
+| **Codeforces** | [IronMindX](https://codeforces.com/profile/IronMindX) | **1483** | **Specialist** |
 | **CodeChef** | [IronMindX](https://www.codechef.com/users/IronMindX) | **1690** | **3★** |
 
 ---
