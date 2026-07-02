@@ -21,7 +21,7 @@ I am a Software Engineering student focused on mastering the entire lifecycle of
 
 | Platform | Handle / Profile | Rating | Rank / Stars |
 | :--- | :--- | :--- | :--- |
-| **Codeforces** | [IronMindX](https://codeforces.com/profile/IronMindX) | **1483** | **Specialist** |
+| **Codeforces** | [IronMindX](https://codeforces.com/profile/IronMindX) | **1525** | **Specialist** |
 | **CodeChef** | [IronMindX](https://www.codechef.com/users/IronMindX) | **1690** | **3★** |
 
 ---
