@@ -23,6 +23,7 @@ I am a Software Engineering student focused on mastering the entire lifecycle of
 | :--- | :--- | :--- | :--- |
 | **Codeforces** | [IronMindX](https://codeforces.com/profile/IronMindX) | **1525** | **Specialist** |
 | **CodeChef** | [IronMindX](https://www.codechef.com/users/IronMindX) | **1690** | **3★** |
+| **LeetCode** |  | **Max Rating 1926** | **Knight** |
 
 ---
 
